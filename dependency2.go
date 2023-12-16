@@ -1,4 +1,4 @@
-package main
+package dependancy2
 
 import (
 	"strings"
